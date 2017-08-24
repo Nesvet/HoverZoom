@@ -1,0 +1,10 @@
+{
+	"esnext":		true,
+	"unused":		true,
+	"quotmark":		"double",
+	"sub":			true,
+	"lastsemic":	true,
+	"maxerr":		100500,
+	"supernew":		true,
+	"node":			true
+}

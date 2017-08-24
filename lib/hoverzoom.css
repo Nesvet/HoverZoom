@@ -1,0 +1,14 @@
+.hoverzoom-layout {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	overflow: hidden;
+}
+
+.hoverzoom-layout .hoverzoom-zoomable {
+	transition: transform 100ms;
+}
+
+.hoverzoom-layout .hoverzoom-zoomable.hoverzoom-no-transition {
+	transition: none;
+}
